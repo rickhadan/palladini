@@ -1,0 +1,6 @@
+{
+  "name": "Palladini Parmegianas",
+  "description": "Delivery de parmegianas artesanais em Praia Grande, São Vicente e Santos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
